@@ -1,0 +1,77 @@
+leftnav:
+- identifier: b30ac4dd-c628-6a22-12c0-886d49107796
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8a66da8b-2f8c-83af-ff23-88925fcd0860
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  name: Readings & Films
+  pageRef: /pages/readings-films/
+  weight: 30
+- identifier: fc99809e-7863-a4c7-61c8-288b97f3cb7f
+  name: Thought Questions for Lazarillo de Tormes
+  pageRef: /pages/readings-films/thought-questions-for-lazarillo-de-tormes
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 40
+- identifier: b70a42fb-072e-fd84-44ae-aad509aa065d
+  name: Notes on Les Liaisons dangereuses to Letter 22
+  pageRef: /pages/readings-films/notes-on-les-liaisons-dangereuses-to-letter-22
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 50
+- identifier: 1a1055df-c615-ffcb-8ba4-fceddedbc54d
+  name: Notes on Les Liaisons dangereuses Letters 40-99
+  pageRef: /pages/readings-films/notes-on-les-liaisons-dangereuses-letters-40-99
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 60
+- identifier: a86123d5-7565-6eae-96ec-35aea9513050
+  name: Notes on Les Liaisons dangereuses Letters 114-146
+  pageRef: /pages/readings-films/notes-on-les-liaisons-dangereuses-letters-114-146
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 70
+- identifier: 17472cf3-7300-7407-36d6-1618caaef61c
+  name: Notes on Les Liaisons dangereuses Letters 147-End
+  pageRef: /pages/readings-films/notes-on-les-liaisons-dangereuses-letters-147-end
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 80
+- identifier: e727c41d-5f8b-db72-46bf-befc29156903
+  name: Notes on Dangerous Liaisons & Cruel Intentions
+  pageRef: /pages/readings-films/notes-on-dangerous-liaisons-cruel-intentions
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 90
+- identifier: 2be3631d-958d-fa96-e8dc-a4c25d02ab81
+  name: "Important Moments in Th\xE9r\xE8se Raquin (First Half)"
+  pageRef: /pages/readings-films/important-moments-in-therese-raquin-first-half
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 100
+- identifier: b166a9ba-6b0f-7522-82ab-36ce888a6032
+  name: "Important Moments in Th\xE9r\xE8se Raquin (Second Half)"
+  pageRef: /pages/readings-films/important-moments-in-therese-raquin-second-half
+  parent: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
+  weight: 110
+- identifier: c25bec97-eb35-9edf-7411-fbb08661dbcd
+  name: Essays
+  pageRef: /pages/essays/
+  weight: 120
+- identifier: 77b1fc7c-3178-0d94-556d-56542dba41a7
+  name: First Essay
+  pageRef: /pages/essays/first-essay
+  parent: c25bec97-eb35-9edf-7411-fbb08661dbcd
+  weight: 130
+- identifier: b093afb1-85c6-e275-6ea8-97608493498d
+  name: Second Essay
+  pageRef: /pages/essays/second-essay
+  parent: c25bec97-eb35-9edf-7411-fbb08661dbcd
+  weight: 140
+- identifier: e952322f-0696-73c6-467a-080371c934be
+  name: Third Essay
+  pageRef: /pages/essays/third-essay
+  parent: c25bec97-eb35-9edf-7411-fbb08661dbcd
+  weight: 150
+- identifier: 948e1338-15e9-ec57-7125-0e2210b367ef
+  name: Fourth Essay
+  pageRef: /pages/essays/fourth-essay
+  parent: c25bec97-eb35-9edf-7411-fbb08661dbcd
+  weight: 160
