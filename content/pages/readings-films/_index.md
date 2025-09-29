@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains a list of readings and films for the course. '
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -8,15 +10,15 @@ title: Readings & Films
 uid: 79cc57b0-e3aa-0626-f3dc-2af2b6806302
 ---
 
-\[LDT\] = Anonymous. _Lazarillo de Tormes_. Edited and translated by Ilan Stavans. W. W. Norton & Company, 2015. ISBN: 9780393938050. \[Preview with {{% resource_link "49af5720-7038-4774-9563-cd8575866f9d" "Google Books" %}}\]
+\[LDT\] = Anonymous. _Lazarillo de Tormes_. Edited and translated by Ilan Stavans. W. W. Norton & Company, 2015. ISBN: 9780393938050. \[Preview with [Google Books](https://books.google.com/books?id=MpfBCwAAQBAJ&lpg=PP1&dq=lazarillo%20de%20tormes%202015&pg=PP1#v=onepage&q&f=false)\]
 
-\[LLD\] = Choderlos de Laclos, Pierre. _Les Liaisons dangereuses_. Reissue edition. Translated by Douglas Parmée. Oxford University Press, 2008. ISBN: 9780199536481. \[Preview with {{% resource_link "87bb61e8-15fb-490b-963e-62f31d2d7d86" "Google Books" %}}\]
+\[LLD\] = Choderlos de Laclos, Pierre. _Les Liaisons dangereuses_. Reissue edition. Translated by Douglas Parmée. Oxford University Press, 2008. ISBN: 9780199536481. \[Preview with [Google Books](https://books.google.com/books?id=U70UDAAAQBAJ&lpg=PR4&dq=les%20liaisons%20dangereuses%20oxford%20university%20press&pg=PP1#v=onepage&q&f=false)\]
 
-\[TR\] = Zola, Émile. _Thérèse Raquin_. Reprint edition. Penguin Classics, 2005. ISBN: 9780140449440. \[Preview with {{% resource_link "c521c875-237b-47bc-82da-e794afe2fb06" "Google Books" %}}\]
+\[TR\] = Zola, Émile. _Thérèse Raquin_. Reprint edition. Penguin Classics, 2005. ISBN: 9780140449440. \[Preview with [Google Books](https://books.google.com/books?id=418_uvMEPJQC&lpg=PT263&dq=therese%20raquin%20penguin&pg=PP1#v=onepage&q&f=false)\]
 
 \[KSW\] = Puig, Manuel. _Kiss of the Spider Woman_. Reissue edition. Vintage, 1991. ISBN: 9780679724490.
 
-\[TBP\] = Rulfo, Juan. _The Burning Plain and Other Stories_. Illustrated by Kermit Oliver. Translated by George D. Schade. University of Texas Press, 1971. ISBN: 9780292701328. \[Preview with {{% resource_link "0fd86e3a-d4f3-48b6-bc99-fd420f97e41f" "Google Books" %}}\]
+\[TBP\] = Rulfo, Juan. _The Burning Plain and Other Stories_. Illustrated by Kermit Oliver. Translated by George D. Schade. University of Texas Press, 1971. ISBN: 9780292701328. \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PP1#v=onepage&q&f=false)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -144,7 +146,7 @@ Discuss: _Les Liaisons dangereuses_
 Discuss: _Les Liaisons dangereuses_
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: _{{% resource_link "9d97e04a-40c2-4721-9f30-7e028e7ac785" "Dangerous Liaisons" %}}_
+Watch: _[Dangerous Liaisons](http://www.imdb.com/title/tt0094947/?ref_=nv_sr_1)_
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +160,7 @@ Discuss film: _Dangerous Liaisons_
 {{< tdopen >}}
 
 
-Watch: _{{% resource_link "9eabf867-f635-495d-9e6e-10dcff6e8cb4" "Cruel Intentions" %}}_
+Watch: _[Cruel Intentions](http://www.imdb.com/title/tt0139134/?ref_=nv_sr_1)_
 
 {{% resource_link e727c41d-5f8b-db72-46bf-befc29156903 "Notes on _Dangerous Liaisons_ and _Cruel Intentions_" %}}
 
@@ -230,9 +232,9 @@ Finish: _Thérèse Raquin_
 {{< tdopen >}}
 
 
-de Assis, Machado. _Dom Casmurro_. Translated by Helen Caldwell. Reprint edition. Farrar, Straus and Giroux, 2009. ISBN: 9780374523039. \[Preview with {{% resource_link "22f40bcd-fcf0-475d-8066-5c77ec673800" "Google Books" %}}\]
+de Assis, Machado. _Dom Casmurro_. Translated by Helen Caldwell. Reprint edition. Farrar, Straus and Giroux, 2009. ISBN: 9780374523039. \[Preview with [Google Books](https://books.google.com/books?id=ntXVZfXngJYC&lpg=PP1&dq=dom%20casmurro&pg=PP1#v=onepage&q&f=false)\]
 
-Person, Ethel S. "{{% resource_link "3b2f6116-cd88-4cfd-b5db-2fdf2a97c2bc" "Love Triangles" %}}." _The Atlantic_. February 1988.
+Person, Ethel S. "[Love Triangles](https://www.theatlantic.com/magazine/archive/1988/02/love-triangles/376328/)." _The Atlantic_. February 1988.
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Person, Ethel S. "{{% resource_link "3b2f6116-cd88-4cfd-b5db-2fdf2a97c2bc" "Love
 Discuss: _Dom Casmurro_
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: _{{% resource_link "bc5c979d-4ac0-4725-bd17-7759b356279b" "Doña Flor and Her Two Husbands" %}}_
+Watch: _[Doña Flor and Her Two Husbands](http://www.imdb.com/title/tt0077452/)_
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -264,7 +266,7 @@ Finish discussion of _Dom Casmurro_
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mann, Thomas. _Dead in Venice_. Translated by Stanley Appelbaum. Dover Publications, 1995. ISBN: 9780486287140. \[Preview with {{% resource_link "1e3f8a3a-6acb-4c60-9ca0-dda32b75a6ef" "Google Books" %}}\]
+Mann, Thomas. _Dead in Venice_. Translated by Stanley Appelbaum. Dover Publications, 1995. ISBN: 9780486287140. \[Preview with [Google Books](https://books.google.com/books?id=PjbCAgAAQBAJ&lpg=PP1&dq=death%20in%20venice&pg=PP1#v=onepage&q&f=false)\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -288,7 +290,7 @@ No assigned readings
 Discuss: _Death in Venice_
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: _{{% resource_link "9999157c-c3f5-466d-b520-0142b7dd07be" "Death in Venice" %}}_
+Watch: _[Death in Venice](http://www.imdb.com/title/tt0067445/)_
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +310,7 @@ Finish discussion of _Death in Venice_
 {{< tdopen >}}
 
 
-Watch: _{{% resource_link "9b2956ce-e126-4774-aa4c-4b1e74083516" "Cat People" %}}_
+Watch: _[Cat People](http://www.imdb.com/title/tt0034587/)_
 
 \[KSW\] Ch. 1–11
 
@@ -340,7 +342,7 @@ Discuss: _Kiss of the Spider Woman_ to Ch. 11
 Finish discussion of _Kiss of the Spider Woman_
 {{< tdclose >}}
 {{< tdopen >}}
-Watch: _{{% resource_link "dbbc7d89-3ffe-420e-b718-0a45ec337968" "Kiss of the Spider Woman" %}}_
+Watch: _[Kiss of the Spider Woman](http://www.imdb.com/title/tt0089424/?ref_=nv_sr_1)_
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -354,9 +356,9 @@ Discuss film: _Kiss of the Spider Woman_
 {{< tdopen >}}
 
 
-\[TBP\] "They Gave Us the Land." \[Preview with {{% resource_link "8208444a-855e-403f-ad1b-a8f3ce2495a4" "Google Books" %}}\]
+\[TBP\] "They Gave Us the Land." \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA9#v=onepage&q&f=false)\]
 
-\[TBP\] "Tell Them Not to Kill Me!" \[Preview with {{% resource_link "2e3a9bec-f510-4ac6-bae1-70b0529313e8" "Google Books" %}}\]
+\[TBP\] "Tell Them Not to Kill Me!" \[Preview with [Google Books](https://books.google.com/books?id=nf_eDyxtbD0C&lpg=PP1&dq=jean%20rulfo%20tell%20them%20not%20to%20kill%20me%20luvina&pg=PA83#v=onepage&q&f=false)\]
 
 \[TBP\] "Paso del Norte."
 
@@ -373,7 +375,7 @@ Discuss film: _Kiss of the Spider Woman_
 
 Discuss: Short stories by Juan Rulfo
 
-Guest lecturer: {{% resource_link "0f491c5a-910f-4b6b-a4e3-ddf8638dfa22" "Joaquín Terrones" %}}
+Guest lecturer: [Joaquín Terrones](https://lit.mit.edu/people/jterrones/)
 
 
 {{< tdclose >}}

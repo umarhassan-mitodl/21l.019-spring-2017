@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section contains notes on Les Liaisons dangereuses to Letter 22
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

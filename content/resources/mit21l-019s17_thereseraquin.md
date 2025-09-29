@@ -4,6 +4,8 @@ description: ''
 file: /courses/21l-019-introduction-to-european-and-latin-american-fiction-great-books-on-the-page-and-on-the-screen-spring-2017/4064360e4bd16af6c3afa0eaf4987869_MIT21L.019S17_ThereseRaquin.jpg
 file_size: 41867
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
