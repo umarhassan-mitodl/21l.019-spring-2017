@@ -14,7 +14,7 @@ uid: 948e1338-15e9-ec57-7125-0e2210b367ef
 {{< resource uuid="3adc16c9-a12b-0716-8c13-7037193e1991" >}}
 
 (A plaque of Gabriel García Márquez in Paris,   
-France. Image courtesy of [Patrik Tschudin](https://upload.wikimedia.org/wikipedia/commons/1/17/Gabriel_Garc%C3%ADa_M%C3%A1rquez_plaque_-_Rue_Cujas%2C_Paris_5.jpg) on   
+France. Image courtesy of {{% resource_link "312cc5e6-7105-441f-90dd-3e2a13d7f88f" "Patrik Tschudin" %}} on   
 Wikimedia Commons. License CC BY.)
 
 Choose ONE of these, or any other short quote that you enjoyed, and argue that one small line in Gabriel García Márquez’s prose is related to the core of this narrative.
