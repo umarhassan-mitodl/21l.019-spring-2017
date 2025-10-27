@@ -2,8 +2,6 @@
 content_type: page
 description: "This section contains instructor notes on Les Liaisons dangereuses Letters\
   \ 40\u201399."
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

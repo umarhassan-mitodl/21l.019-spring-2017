@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the prompts for the Third Essay, which focuses
   on the novel The Kiss of the Spider Woman.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Essays
@@ -16,7 +14,7 @@ uid: e952322f-0696-73c6-467a-080371c934be
 {{< resource dc5b1050-b08f-9a87-e068-17ffa2bcfe05 >}}  
 
 (A Spanish poster for _Kiss of the Spider Woman_.  
-Image courtesy of [Ricardo Pablo](https://flic.kr/p/p715on) on flickr.  
+Image courtesy of {{% resource_link "6945c449-3ff4-48ed-b428-1cc78ee91eee" "Ricardo Pablo" %}} on flickr.  
 License CC BY-NC-SA.)
 
 1.  _The Kiss of the Spider Woman_ is a novel that deals with power: political and sexual. Does Puig break conventional notions of power? To what degree? Support your argument with the text.

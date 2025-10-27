@@ -4,8 +4,6 @@ description: ''
 file: /courses/21l-019-introduction-to-european-and-latin-american-fiction-great-books-on-the-page-and-on-the-screen-spring-2017/3adc16c9a12b07168c137037193e1991_MIT21L.019S17_GGMplaque.jpg
 file_size: 30085
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
